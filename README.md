@@ -6,7 +6,7 @@
 
 Template ini dibuat dengan menggunakan LaTeX, template ini digunakan untuk laporan praktikum jaringan komputer.
 
-> file PDF Laporan dari template ini bisa dilihat di [sini](https://github.com/Lab-B300-MIOT/template-laporan-jarkom/laporan.pdf)
+> file PDF Laporan dari template ini bisa dilihat di [sini](https://lab-b300-miot.github.io/template-laporan-jarkom/laporan.pdf)
 
 Jika anda ingin memakai template ini di **Overleaf** dapat menggunakan link di [sini](sabar).
 
