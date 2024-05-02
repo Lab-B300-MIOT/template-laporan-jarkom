@@ -8,7 +8,7 @@ Template ini dibuat dengan menggunakan LaTeX, template ini digunakan untuk lapor
 
 > file PDF Laporan dari template ini bisa dilihat di [sini](https://lab-b300-miot.github.io/template-laporan-jarkom/laporan.pdf)
 
-Jika anda ingin memakai template ini di **Overleaf** dapat menggunakan link di [sini](sabar).
+Jika anda ingin memakai template ini di **Overleaf** dapat menggunakan link di [sini](https://www.overleaf.com/read/zmdvwjkpfbmf#0029dc).
 
 ## Panduan Instalasi LaTeX
 
